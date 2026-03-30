@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-from pet_2d_reconstruction_tutorial_8 import (
+from pet_2d_recon_app import (
     make_brain_phantom,
     make_roi_masks,
     make_projector,
