@@ -2,15 +2,15 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-from pet_2d_recon_app import (
-    make_brain_phantom,
-    make_roi_masks,
-    make_projector,
-    simulate_measurements,
-    run_reconstruction,
-    run_map,
-    NOISE_PRESETS
-)
+#from pet_2d_recon_app import (
+#    make_brain_phantom,
+#    make_roi_masks,
+#    make_projector,
+#    simulate_measurements,
+#    run_reconstruction,
+#    run_map,
+#    NOISE_PRESETS
+#)
 
 # -------------------------------------------------
 # PAGE CONFIG
